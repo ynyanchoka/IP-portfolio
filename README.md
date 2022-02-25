@@ -2,7 +2,7 @@
 A simple portofilio page completed as part of Moringa School's Web Development curriculum. Impletemented using HTML and CSS and contains basic information about me such as hobbies, skills and previous projects.
 
 ## Authors
-[Ymelda Monari](https://github.com/ynyanchoka)
+[Ymelda Monari](https://github.com/ynyanchoka/IP-portfolio)
 
 ## Instructions
 Follow the steps below to run the project locally:
@@ -11,4 +11,4 @@ Follow the steps below to run the project locally:
 ## Technologies used
 The technologies used and HTML and CSS
 ## License
-MIT License
+MIT Licenseg
