@@ -65,9 +65,15 @@ h3 {
     padding: 6px;
 }
 .background {
-    background-color: turquoise;
+    background-color: #bee0ec;
     margin: 0%;
 }
 h1 {
     text-align: center;
+}
+#img2 {
+    float: right;
+    width: 200px;
+    height: 130px;
+
 }
