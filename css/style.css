@@ -1,7 +1,3 @@
-body {
-    margin: 0;
-}
-
 .important {
     color: orange;
 }
@@ -35,3 +31,10 @@ img {
 .border {
     border: 2px solid red;
   }
+  footer {
+    display: block;
+    background-color: #001c42;
+    text-align: center;
+    color: white;
+    font-size: 26px;
+}
